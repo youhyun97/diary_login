@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Daily Diary</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">이름</string>
+    <string name="hint_email">이메일</string>
+    <string name="hint_password">비밀번호</string>
+    <string name="hint_confirm_password">비밀번호 확인</string>
+    <string name="text_login">로그인</string>
+    <string name="text_register">회원가입</string>
+    <string name="error_message_name">정확한 이름을 입력하세요</string>
+    <string name="error_message_email">유효한 이메일 형식을 입력하세요</string>
+    <string name="error_message_age">나이를 입력하세요</string>
+    <string name="error_message_password">비밀번호를 입력하세요</string>
+    <string name="success_message">회원가입 되었습니다</string>
+    <string name="text_not_member">회원가입</string>
+    <string name="text_already_member">로그인</string>
+    <string name="error_email_exists">이미 존재하는 이메일입니다</string>
+    <string name="error_password_match">비밀번호가 일치하지 않습니다</string>
+    <string name="error_valid_email_password">이메일이나 비밀번호를 다시 확인해주세요</string>
+    <string name="action_settings">설정</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Daily Diary</string>
+</resources>
